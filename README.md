@@ -53,6 +53,7 @@ Most of my learning happens through **hackathons, internships, research, open-so
 - **Top 4% Contributor — GirlScript Summer of Code (GSSoC'26)**
 - **Technical Writer @ Devfolio**
 - **Content Creator @ CodeBenders**, Technical Society of IGDTUW
+- Senior Execomm Creative Head @ IEEE IGDTUW
 - Member of global communities: **PyLadies** • **IoAI | The Institute of AI (UK)** • **SheFi (Web3 & Blockchain)**
 - **Proficient in Prompt Engineering** • Certified by CodeSignal
 - Ranked **18th among 95 teams** in **Internal SIH'25**
